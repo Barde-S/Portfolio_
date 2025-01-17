@@ -9,13 +9,13 @@ const projects = [
     description: "Developed a machine learning pipeline for predicting crop yield with robust evaluation.",
     tags: ["Python", "Scikit-learn", "LightGBM", "XGBoost", "Pandas"]
   },
-  {
-    title: "Automated Trading Bot",
-    description: "Built a bot integrating OANDA and Alpaca APIs for automated forex and stock trading.",
+ {
+    title: "Algorithmic Trading System",
+    description: "Developed an automated trading system using Python, integrating APIs for real-time data.",
     tags: ["Python", "OANDA API", "Alpaca API", "APScheduler", "RESTful API"]
   },
   {
-    "Loan Default Prediction",
+    title: "Loan Default Prediction",
     description: "Built predictive models to assess loan default risks using machine learning.",
     tags: ["Python", "Jupyter Notebook", "Machine Learning"]
   }
