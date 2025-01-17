@@ -3,7 +3,7 @@ import { TypeAnimation } from 'react-type-animation'
 export default function IntroSection() {
   return (
     <section className="py-20 text-center">
-      <h1 className="text-5xl font-bold mb-4">Hi, I'm [Your Name]</h1>
+      <h1 className="text-5xl font-bold mb-4">Hi, I'm Shuaibu Sani Barde</h1>
       <TypeAnimation
         sequence={[
           'Machine Learning Engineer',
