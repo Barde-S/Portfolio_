@@ -5,19 +5,19 @@ import { motion, AnimatePresence } from 'framer-motion'
 
 const projects = [
   {
-    title: "Image Classification with CNNs",
-    description: "Developed a Convolutional Neural Network for image classification using PyTorch.",
-    tags: ["PyTorch", "CNN", "Computer Vision"]
+    title: "Crop Yield Prediction",
+    description: "Developed a machine learning pipeline for predicting crop yield with robust evaluation.",
+    tags: ["Python", "Scikit-learn", "LightGBM", "XGBoost", "Pandas"]
   },
   {
-    title: "Natural Language Processing for Sentiment Analysis",
-    description: "Built an LSTM-based model for sentiment analysis on movie reviews.",
-    tags: ["NLP", "LSTM", "TensorFlow"]
+    title: "Automated Trading Bot",
+    description: "Built a bot integrating OANDA and Alpaca APIs for automated forex and stock trading.",
+    tags: ["Python", "OANDA API", "Alpaca API", "APScheduler", "RESTful API"]
   },
   {
-    title: "Reinforcement Learning for Game AI",
-    description: "Implemented a Deep Q-Network to train an AI to play Atari games.",
-    tags: ["Reinforcement Learning", "DQN", "OpenAI Gym"]
+    "Loan Default Prediction",
+    description: "Built predictive models to assess loan default risks using machine learning.",
+    tags: ["Python", "Jupyter Notebook", "Machine Learning"]
   }
 ]
 
